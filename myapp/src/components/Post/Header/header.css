@@ -1,0 +1,22 @@
+.doc-head{
+    display: flex;
+    justify-content:space-between;
+    padding: 15px 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 65px;
+    align-items: center;
+    width: 100;
+    background-color: white;
+    animation-name: header-anim;
+    animation-duration: 0.5s;
+  }
+  .insta-pic{
+    width:40px;
+  }
+  .camera-pic{
+    width:33px;
+    cursor: pointer;
+  }
+  .logo{
+    display:flex;
+  }
